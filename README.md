@@ -6,7 +6,7 @@
   <br/>
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <br/>
-  <h1><b>Greetings Rails API</b></h1><a name="about-project"></a>
+  <h1><b>Hello Rails Back End App</b></h1><a name="about-project"></a>
 </div>
 
 
@@ -43,7 +43,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Greetings Rails API ](#-greetings-rails-api-)
+- [📖 Hello Rails Back End App ](#-hello-rails-back-end-app-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -62,9 +62,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Greetings Rails API <a name="about-project"></a>
+# 📖 Hello Rails Back End App <a name="about-project"></a>
 
-> The HGreetings Rails API App is an example of a Ruby on Rails app providing API Endpoint to connect to a Front-end of your choice. In payload it provides a random greeting message.
+> The Hello Rails Back End App provides an API Endpoint fetched by [Hello React Front End App](https://github.com/Mar12358/hello-react-front-end). This is an example of a Ruby on Rails back-end app connected to a Front-end of your choice.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -154,7 +154,7 @@ rails db:seed
 
 Run server
 ```
-rails server
+rails server -p 3001
 ```
 
 <!-- ### Run tests
@@ -196,7 +196,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add More enpoints**
+- [ ] **Add More endpoints**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
