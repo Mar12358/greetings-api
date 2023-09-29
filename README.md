@@ -128,7 +128,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Mar12358/greetings-api.git
+  git clone https://github.com/Mar12358/hello-rails-back-end.git
 ```
 
 ### Install
@@ -206,7 +206,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Mar12358/greetings-api/issues).
+Feel free to check the [issues page](https://github.com/Mar12358/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
